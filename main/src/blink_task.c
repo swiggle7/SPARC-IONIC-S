@@ -37,3 +37,5 @@ void blink_task_start(void)
         CONFIG_BLINK_TASK_PRIORITY,
         NULL);
 }
+
+// test 
